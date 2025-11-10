@@ -9,8 +9,8 @@ import java.util.List;
 import java.sql.ResultSetMetaData;
 
 public class DBManager {
-	public static String db_UserName="root";
-	public static String db_Password="Shiva@007";
+	public static String db_UserName="your_username";
+	public static String db_Password="your_password";
 	public static String port = "3306";
 	
 	public static ResultSet FetchDataFromDB(String querry, String dataBaseName) throws SQLException, IOException {

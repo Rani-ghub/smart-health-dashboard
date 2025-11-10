@@ -32,7 +32,7 @@ A Java Swing-based desktop application for tracking, filtering, and visualizing 
 <artifactId>smart-health-dashboard</artifactId>
 <version>1.0.0</version>
 
-## Prerequisites
+## ✨ Prerequisites
 #1. MySQL Database Setup
 Create a database named smart_health:
 
