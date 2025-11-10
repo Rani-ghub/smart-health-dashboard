@@ -36,8 +36,8 @@ A Java Swing-based desktop application for tracking, filtering, and visualizing 
 
 ## ✨ Prerequisites
 
-#1. MySQL Database Setup
-Create a database named smart_health:
+## MySQL Database Setup
+1. Create a database named smart_health:
 #sql querry
 CREATE DATABASE smart_health;
 
@@ -69,10 +69,11 @@ CREATE TABLE health_data (
 #Update your DBManager.java with your MySQL credentials:
 
 java
-String url = "jdbc:mysql://localhost:3306/smart_health";
-String user = "your_mysql_username";
-String password = "your_mysql_password";
-#🚀 Getting Started
+public static String db_UserName = "your_mysql_username";
+public static String db_Password = "your_mysql_password";
+public static String port = "your_port";
+
+## 🚀 Getting Started
 #1. Clone the Repository
 #git bash
 git clone https://github.com/your-username/smart-health-dashboard.git
@@ -80,17 +81,13 @@ git clone https://github.com/your-username/smart-health-dashboard.git
 #2. Import into Your IDE
 #Open the project in IntelliJ, Eclipse, or VS Code as a Maven project.
 
-#3. Install Dependencies
-#Ensure Maven downloads:
-JFreeChart
-JDatePicker
-
 ---
 ## ✨ Run the Application
 Launch Main.java to start the dashboard.
 
 ## ✨ Screenshots
 #1.Login
+
 <img width="221" height="107" alt="image" src="https://github.com/user-attachments/assets/787b2c28-363d-417e-9e53-4a21d76a0381" />
 
 #2.Dashboard--Add data, Filter data
