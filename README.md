@@ -27,7 +27,7 @@ A Java Swing-based desktop application for tracking, filtering, and visualizing 
 
 ## 📦 Maven Configuration
 
-```xml
+
 <groupId>com.RaniAutomation</groupId>
 <artifactId>smart-health-dashboard</artifactId>
 <version>1.0.0</version>
@@ -85,8 +85,20 @@ git clone https://github.com/your-username/smart-health-dashboard.git
 JFreeChart
 JDatePicker
 
-#4. Run the Application
+---
+## ✨ Run the Application
 Launch Main.java to start the dashboard.
+
+## ✨ Screenshots
+#1.Login
+<img width="221" height="107" alt="image" src="https://github.com/user-attachments/assets/787b2c28-363d-417e-9e53-4a21d76a0381" />
+
+#2.Dashboard--Add data, Filter data
+<img width="958" height="332" alt="image" src="https://github.com/user-attachments/assets/6cbdc9fa-3917-4736-b67a-5ea3cf5ac58f" />
+
+#3.Chart View
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/61d1866a-a30a-4534-b844-864e5f66e7ff" />
+
 
 ---
 
