@@ -86,7 +86,7 @@ git clone https://github.com/your-username/smart-health-dashboard.git
 Launch Main.java to start the dashboard.
 
 ## ✨ Screenshots
-#1.Login
+## 1.Login
 
 <img width="221" height="107" alt="image" src="https://github.com/user-attachments/assets/787b2c28-363d-417e-9e53-4a21d76a0381" />
 
@@ -97,7 +97,7 @@ Launch Main.java to start the dashboard.
 
 
 
-#2.Dashboard--Add data, Filter data, Export to CSV, Show Chart
+## 2.Dashboard--Add data, Filter data, Export to CSV, Show Chart
 
 <img width="958" height="332" alt="image" src="https://github.com/user-attachments/assets/6cbdc9fa-3917-4736-b67a-5ea3cf5ac58f" />
 
@@ -107,7 +107,7 @@ Launch Main.java to start the dashboard.
 
 
 
-#3.Chart View
+## 3.Chart View
 
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/61d1866a-a30a-4534-b844-864e5f66e7ff" />
 
