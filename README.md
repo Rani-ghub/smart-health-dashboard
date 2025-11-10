@@ -92,9 +92,18 @@ Launch Main.java to start the dashboard.
 
 
 
-#2.Dashboard--Add data, Filter data
+
+
+
+
+
+#2.Dashboard--Add data, Filter data, Export to CSV, Show Chart
 
 <img width="958" height="332" alt="image" src="https://github.com/user-attachments/assets/6cbdc9fa-3917-4736-b67a-5ea3cf5ac58f" />
+
+
+
+
 
 
 
