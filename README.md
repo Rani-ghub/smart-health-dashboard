@@ -93,11 +93,13 @@ Launch Main.java to start the dashboard.
 
 
 #2.Dashboard--Add data, Filter data
+
 <img width="958" height="332" alt="image" src="https://github.com/user-attachments/assets/6cbdc9fa-3917-4736-b67a-5ea3cf5ac58f" />
 
 
 
 #3.Chart View
+
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/61d1866a-a30a-4534-b844-864e5f66e7ff" />
 
 
